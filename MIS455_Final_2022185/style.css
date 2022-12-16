@@ -1,0 +1,32 @@
+.title-style{
+
+    font-weight: 900;
+    font-size: 18px;
+    background-color: bisque;
+   
+
+}
+
+
+.img-style{
+   width: 250px;
+}
+
+
+#container{
+   display: grid;
+   grid-template-columns: repeat(auto-fit, 18rem);
+   -ms-grid-column-align: center;
+}
+.part1{
+    text-align: center;
+}
+body{
+    background-color: rgb(0, 105, 54);
+}
+.card{
+    background-color: rgb(15, 151, 85) ;
+}
+.btn{
+    background-color:rgb(0, 105, 54);
+}
